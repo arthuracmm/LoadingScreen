@@ -32,7 +32,7 @@ Este projeto é fornecido "como está", sem garantias expressas ou implícitas d
 - Agradeço à faculdade Fatec Franca, por fornecer esta atividade prática para praticarmos nossas habilidades em HTML e CSS.
 - Agradeço a todos os colaboradores que contribuíram para este projeto com sugestões, correções e melhorias.
 
-Link CodePen = https://codepen.io/acmkk/pen/KKLVJBb
+Link CodePen = https://codepen.io/acmkk/pen/jOoWdpQ
 
 **Exemplo da Animação:**
 
